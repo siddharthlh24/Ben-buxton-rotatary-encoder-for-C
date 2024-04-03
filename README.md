@@ -1,4 +1,5 @@
 # Ben-buxton-rotary-encoder-for-C
+Super fast rotary encoder state machine with builtin debounce.<br>
 This is a C port of the famous Ben Buxton's rotary encoder for Arduino. I did this with the original intent of using it with my STM32 blue pill.<br>
 The original library is for Arduino and I had to strip out the consructor and make a few changes to make it work in C.<br>
 Link to original Arduino library: https://github.com/buxtronix/arduino/tree/master/libraries/Rotary. Visit this for details. on the original library<br>
